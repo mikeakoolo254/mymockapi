@@ -29,36 +29,7 @@
     "email": "eve.adams@example.com",
     "rating": 4
   },
-  {
-    "name": "Frank Castle",
-    "address": "303 Cedar St, Hell's Kitchen",
-    "email": "frank.castle@example.com",
-    "rating": 2
-  },
-  {
-    "name": "Grace Lee",
-    "address": "404 Birch St, National City",
-    "email": "grace.lee@example.com",
-    "rating": 5
-  },
-  {
-    "name": "Henry Miller",
-    "address": "505 Walnut St, Coast City",
-    "email": "henry.miller@example.com",
-    "rating": 3
-  },
-  {
-    "name": "Isabella Garcia",
-    "address": "606 Cherry St, Central City",
-    "email": "isabella.garcia@example.com",
-    "rating": 4
-  },
-  {
-    "name": "Jack Wilson",
-    "address": "707 Ash St, Keystone City",
-    "email": "jack.wilson@example.com",
-    "rating": 5
-  }
+
 ]
 
 
